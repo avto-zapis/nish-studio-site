@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nishstudio.ru/sitemap.xml
